@@ -43,9 +43,9 @@ grails.project.dependency.resolution = {
             export = false
         }
 
-		test (":code-coverage:1.2.5") {
-			export = false
-		}
+        test (":code-coverage:1.2.5") {
+            export = false
+        }
 
     }
 }
